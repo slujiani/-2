@@ -1,0 +1,5 @@
+﻿  Server.cpp
+d:\2018春\计算机网络\lab2\project1\project1\server.cpp(35): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: 参见“localtime”的声明
+d:\2018春\计算机网络\lab2\project1\project1\server.cpp(201): warning C4309: “=”: 截断常量值
+  Project1.vcxproj -> D:\2018春\计算机网络\lab2\Project1\Debug\Project1.exe
